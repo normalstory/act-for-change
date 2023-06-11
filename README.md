@@ -12,7 +12,7 @@ Creating Tools for Making Small Changes in Everyday Life to Save the Earth
 - License : Attribution (BY), Non-Commercial (NC)
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
-To view a copy of this license, visit [link to the license].
+To view a copy of this license, visit [[link to the license].](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 ## Process Documentation
