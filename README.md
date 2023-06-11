@@ -6,7 +6,7 @@ Creating Tools for Making Small Changes in Everyday Life to Save the Earth
 - Name : Capsule coffee bean separation module
 - Purpose: Module for separating beans and capsules from coffee capsules   
 - Type : Basic
-- Version: SE1.0.0.3  
+- Version: 0.0.3  
 - File Format: stl
 - Structure: top, bottom 
 - License : Attribution (BY), Non-Commercial (NC)
