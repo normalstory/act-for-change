@@ -11,8 +11,17 @@ Creating Tools for Making Small Changes in Everyday Life to Save the Earth
 - Structure: top, bottom 
 - License : Attribution (BY), Non-Commercial (NC)
 
+
+
+##Note
+Depending on the type of 3D printer you have or how you remove the supporters, you may need to print your 3D model in more sections.
+
+
+
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
 To view a copy of this license, visit [[link to the license].](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 
 
 ## Process Documentation
