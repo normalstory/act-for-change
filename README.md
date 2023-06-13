@@ -13,7 +13,7 @@ Creating Tools for Making Small Changes in Everyday Life to Save the Earth
 
 
 
-##Note
+## Note
 Depending on the type of 3D printer you have or how you remove the supporters, you may need to print your 3D model in more sections.
 
 
